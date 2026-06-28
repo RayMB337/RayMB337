@@ -3,7 +3,7 @@ Cybersecurity Student | NCL Top 7% Nationally |
 Google IT & AWS Certified
 
 ## About Me
-Cybersecurity major at Cochise College with a 4.0 GPA 
+Cybersecurity major at Cochise College with a 3.68 GPA 
 and 5 years of self-taught programming experience. 
 Ranked 592nd out of 7,873 competitors (93rd percentile) 
 in the National Cyber League Spring 2025 Individual Game. 
