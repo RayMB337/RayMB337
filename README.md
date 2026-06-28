@@ -22,11 +22,11 @@ Passionate about security, automation, and backend development.
 - Google System Administration & IT Infrastructure
 - AWS Academy Graduate — Cloud Foundations
 
-## Currently Working On
-- Job Web Scraper (Python) — targets Indeed, 
-  Glassdoor, ZipRecruiter
-- Rebuilding Windows Security Audit (PowerShell)
-- Rebuilding Windows Security Audit 2 (Python)
+## Portfolio Projects
+- File Shredder (Python)
+- Video Merger (Python)
+- Complete Windows Security Audit (PowerShell)
+
 
 ## Looking For
 Entry-level roles in Cybersecurity, IT Support, 
